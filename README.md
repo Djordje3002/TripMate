@@ -35,6 +35,17 @@ Built with **SwiftUI**, it combines a modern booking experience with intelligent
 ![Trip Mate Screenshot](https://raw.githubusercontent.com/Djordje3002/TripMate/main/Screenshot%202025-11-01%20at%2013.19.49.png)
 ![Trip Mate Screenshot](https://raw.githubusercontent.com/Djordje3002/TripMate/main/Screenshot%202025-11-01%20at%2013.19.58.png)
 
+## 🎬 Demo Video
+
+Watch the Trip Mate demo on [Vimeo](https://vimeo.com/1132829470)
+
+<p align="center">
+  <a href="https://vimeo.com/1132829470">
+    <img src="https://i.vimeocdn.com/video/1132829470_640.jpg" alt="Trip Mate App Demo" width="600">
+  </a>
+</p>
+
+
 
 ## 🚀 Getting Started
 
