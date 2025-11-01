@@ -28,6 +28,11 @@ Built with **SwiftUI**, it combines a modern booking experience with intelligent
 
 ---
 
+## 📸 Screenshots
+
+![Trip Mate Screenshot](https://raw.githubusercontent.com/Djordje3002/TripMate/main/Screenshot%202025-11-01%20at%2013.19.19.png)
+
+
 ## 🚀 Getting Started
 
 # Open in Xcode
