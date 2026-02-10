@@ -1,4 +1,13 @@
-# 🌍 Trip Mate
+## 🧑‍💻 Internship Project
+
+This project was developed as part of an **internship at SwiftyLabs**, where I worked on building a real-world iOS application using SwiftUI, backend services, and AI integration.
+
+During the internship, I was involved in:
+- Designing and implementing core app features
+- Integrating backend APIs and authentication
+- Working with AI-powered chat functionality
+- Following MVVM architecture and production-level practices
+
 
 **Trip Mate** is an AI-powered iOS travel app that helps users discover, book, and manage trips — all in one place.  
 Built with **SwiftUI**, it combines a modern booking experience with intelligent recommendations and a personal AI travel assistant.
